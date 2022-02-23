@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = ssh://idan@10.200.10.54/dvc_repo
+    url = ssh://idan@127.0.0.1/dvc_repo
